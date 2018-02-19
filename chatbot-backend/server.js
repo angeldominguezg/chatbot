@@ -3,7 +3,7 @@ const debug = require('debug')('chatbot:backend:setup')
 const app = require('express')()
 const server = require('http').Server(app)
 const io = require('socket.io')(server)
-const db = require('chatbot-db')
+const db = require('chatbot-database')
 const chalk = require('chalk')
 const apiai = require('apiai')
 

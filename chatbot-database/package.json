@@ -1,5 +1,5 @@
 {
-  "name": "chatbot-db",
+  "name": "chatbot-database",
   "version": "1.0.0",
   "private": true,
   "description": "weather chatbot database module",
