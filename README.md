@@ -7,16 +7,23 @@ One Paragraph of project description goes here
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 In chatboot-bakend run: 
+```
 npm install
+```
+```
 node server
-
+```
 In chatboot-frontend run:
+```
 npm install
+```
+```
 npm run dev
-
+```
 In chatbot-database run:
+```
 npm install
-
+```
 ### Prerequisites
 
 What things you need to install the software and how to install them
