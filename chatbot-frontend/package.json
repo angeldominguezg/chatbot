@@ -15,7 +15,7 @@
     "vue": "^2.5.16",
     "vue-chat-scroll": "^1.2.1",
     "vue-ls": "^2.4.1",
-    "vue-socket.io": "^2.1.1"
+    "vue-socket.io": "^3.0.10"
   },
   "browserslist": [
     "> 1%",
