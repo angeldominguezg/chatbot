@@ -12,7 +12,7 @@
   "author": "Angel Dominguez <angeldominguezg@gmail.com> (https://github.com/angeldominguezg)",
   "license": "MIT",
   "devDependencies": {
-    "ava": "^0.25.0",
+    "ava": "^5.1.0",
     "nyc": "^11.7.1",
     "proxyquire": "^1.8.0",
     "sinon": "^4.5.0",
